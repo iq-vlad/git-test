@@ -1,3 +1,3 @@
 some text
-from the first folder.
+fixed the conflict
 some more text
